@@ -1,6 +1,5 @@
 package exampleThread.UDP;
 
-import java.lang.reflect.Array;
 import java.net.*;
 import java.io.*;
 import java.util.ArrayList;
