@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a81b0eb5-ed98-4c24-8000-d72659b2337e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/springDemoDependencyInjection/FaceBookSocial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springDemoDependencyInjection/Instagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springDemoDependencyInjection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springDemoDependencyInjection/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/distributed program/exampleThread/UDP/DatagramServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/distributed program/exampleThread/UDP/DatagramServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/distributed program/exampleThread/socketTCP/ClientTCP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/distributed program/exampleThread/socketTCP/ServerTCP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exampleThread/UDP/DatagramClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exampleThread/UDP/DatagramClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích" beforeDir="false" afterPath="$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-293">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="155">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -325,12 +316,12 @@
       <workItem from="1572518807319" duration="350000" />
       <workItem from="1572519278039" duration="484000" />
       <workItem from="1572520843981" duration="472000" />
-      <workItem from="1572524000891" duration="7913000" />
+      <workItem from="1572524000891" duration="8430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108654000" />
+    <option name="totallyTimeSpent" value="109171000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -345,7 +336,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -354,7 +345,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3494364" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3494364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28663447" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,7 +353,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.28985506" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.46859902" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.58293074" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.47181964" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.2657005" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -718,8 +709,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="155">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

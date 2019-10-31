@@ -10,13 +10,13 @@ Nguyên lý cuối cùng trong SOLID chính là Dependency Inversion
 
 Tìm hiểu về khái niệm cốt lõi trong Spring core:
     1.Couple
-    2.Decouple
+    2.Loose coupling
     3.Dependency ịnjection - DI
     4.Inversion of Control - IC
 
     *Couple(gắn liền, buộc thành cặp): Chỉ sự liên kết chặt chẽ giữa các class với nhau
 
-    *Decouple(lỏng lẻo): Chỉ sự liên kết lỏng lẻo giữa các class với nhau
+    *Loose coupling (lỏng lẻo): Chỉ sự liên kết lỏng lẻo giữa các class với nhau
 
     *Dependency Inversion: Đây là một nguyên lý để thiết kế và viết code.
 
