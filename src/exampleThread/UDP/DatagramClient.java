@@ -39,5 +39,5 @@ public class DatagramClient {
         } catch (SocketException se) {
             System.err.println(se);
         }
-    }  // end main
+    }  // end Main
 }

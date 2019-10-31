@@ -1,0 +1,38 @@
+###
+SOLID principles, những nguyên lý thiết kế và viết code.
+Nguyên lý cuối cùng trong SOLID chính là Dependency Inversion
+
+    *Các module cấp cao không nên phụ thuộc vào các modules cấp thấp.
+    Cả 2 nên phụ thuộc vào abstraction.
+
+    *Interface (abstraction) không nên phụ thuộc vào chi tiết, mà ngược lại.
+    ( Các class giao tiếp với nhau thông qua interface, không phải thông qua implementation.)
+
+Tìm hiểu về khái niệm cốt lõi trong Spring core:
+    1.Couple
+    2.Decouple
+    3.Dependency ịnjection - DI
+    4.Inversion of Control - IC
+
+    *Couple(gắn liền, buộc thành cặp): Chỉ sự liên kết chặt chẽ giữa các class với nhau
+
+    *Decouple(lỏng lẻo): Chỉ sự liên kết lỏng lẻo giữa các class với nhau
+
+    *Dependency Inversion: Đây là một nguyên lý để thiết kế và viết code.
+
+    *Inversion of Control: Đây là một design pattern được tạo ra để code
+    Có nhiều cách hiện thực pattern này: ServiceLocator, Event, Delegate, …
+    Dependency Injection là một trong các cách đó.
+
+
+    Có 3 dạng Dependency Injection:
+
+    Constructor Injection: Các dependency sẽ được container truyền vào (inject vào) 1 class
+    thông qua constructor của class đó. Đây là cách thông dụng nhất.
+
+    Setter Injection: Các dependency sẽ được truyền vào 1 class thông qua các hàm Setter.
+
+    Interface Injection: Class cần inject sẽ implement 1 interface.
+    Interface này chứa 1 hàm tên Inject. Container sẽ injection dependency
+    vào 1 class thông qua việc gọi hàm Inject của interface đó.
+    Đây là cách rườm rà và ít được sử dụng nhất.
