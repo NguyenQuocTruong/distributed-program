@@ -12,7 +12,7 @@ import java.util.List;
 public class PhanTichRaSNT<S> {
     public static void main(String args[]) {
 
-        int n = 6, i = 2;
+        int n = 120, i = 2;
         int x = n;
         List<Integer> lst = new ArrayList<>();
         while(n > 1){

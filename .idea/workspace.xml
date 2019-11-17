@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a81b0eb5-ed98-4c24-8000-d72659b2337e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích" beforeDir="false" afterPath="$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exampleThread/LifeCycleThread/DemoSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exampleThread/LifeCycleThread/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/distributed program/META-INF/distributed program.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/distributed program/algorithmCodeLearn/PhanTichRaSNT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/distributed program/algorithmCodeLearn/PhanTichRaSNT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/distributed program/exampleThread/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/distributed program/exampleThread/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/distributed program/exampleThread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/distributed program/exampleThread/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithmCodeLearn/PhanTichRaSNT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithmCodeLearn/PhanTichRaSNT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exampleThread/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exampleThread/Main.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,47 +25,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/Service.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,101 +43,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/createThread/Thread1.java" />
-        <option value="$PROJECT_DIR$/src/createThread/Main.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/Main.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/OpenDoor.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/Waiting.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/Want.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/List.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/ThreadNguyenTruong.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/ListTest.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/FooBar.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/Find_SNT_From_Number.java" />
-        <option value="$PROJECT_DIR$/src/algorithmThread/FindMaxFromMatrix.java" />
-        <option value="$PROJECT_DIR$/src/algorithmCodeLearn/FindMaxFromMatrix.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/Want.java" />
-        <option value="$PROJECT_DIR$/src/algorithmCodeLearn/FindSntMaxBetweenTwoNumber.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/ThreadNguyenTruong.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/TestSocket.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/Machine2.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/lab3/test.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/lab3/BoundedBufferMonitor.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/lab3/Symbols.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/lab3/BoundedBuffer.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/lab3/BinarySemaphore.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/lab3/CountingSemaphore.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/lab3/ProducerConsumer.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/Lablab/BoundedBufferMonitor.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/Lablab/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/Lablab/BoundedCounter.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/Lablab/Symbols.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/Lablab/Util.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/lab3/Util.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/OpenDoor/OpenDoor.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/Main.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/TwoThreadCountPrime.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/lab3/BoundedCounter.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/Machine1.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/accessShareResource/BoundedCounter.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/socketTCP/ClientTCP.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/socketTCP/ServerTCP.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/soketUDP/Client.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/soketUDP/Server.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/UDP/DatagramClient.java" />
-        <option value="$PROJECT_DIR$/src/exampleThread/UDP/DatagramServer.java" />
-        <option value="$PROJECT_DIR$/src/springDemoDependencyInjection/main.java" />
-        <option value="$PROJECT_DIR$/src/springDemoDependencyInjection/service.java" />
-        <option value="$PROJECT_DIR$/src/springDemoDependencyInjection/FaceBookSocial.java" />
-        <option value="$PROJECT_DIR$/src/springDemoDependencyInjection/Instagram.java" />
-        <option value="$PROJECT_DIR$/src/springDemoDependencyInjection/Service.java" />
-        <option value="$PROJECT_DIR$/src/springDemoDependencyInjection/Main.java" />
-        <option value="$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1026" />
-    <option name="height" value="554" />
-  </component>
+  <component name="ProjectId" id="1T9jjfxjhE57ocsO6FCrASYbxBk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="distributed program" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed program" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed program" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed program" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed program" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed program" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="springDemoDependencyInjection" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -199,39 +72,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BoundedCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exampleThread.accessShareResource.BoundedCounter" />
+  <component name="RunManager" selected="Application.MyThread">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exampleThread.Main" />
       <module name="distributed program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exampleThread.accessShareResource.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DatagramClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exampleThread.UDP.DatagramClient" />
-      <module name="distributed program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exampleThread.UDP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DatagramServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exampleThread.UDP.DatagramServer" />
-      <module name="distributed program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exampleThread.UDP.*" />
+          <option name="PATTERN" value="exampleThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,6 +92,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="springDemoDependencyInjection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exampleThread.LifeCycleThread.MyThread" />
+      <module name="distributed program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exampleThread.LifeCycleThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhanTichRaSNT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmCodeLearn.PhanTichRaSNT" />
+      <module name="distributed program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithmCodeLearn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyThread" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.PhanTichRaSNT" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Want" />
-        <item itemvalue="Application.BoundedCounter" />
-        <item itemvalue="Application.DatagramClient" />
-        <item itemvalue="Application.DatagramServer" />
       </list>
     </recent_temporary>
   </component>
@@ -317,11 +190,12 @@
       <workItem from="1572519278039" duration="484000" />
       <workItem from="1572520843981" duration="472000" />
       <workItem from="1572524000891" duration="8430000" />
+      <workItem from="1572879346420" duration="972000" />
+      <workItem from="1573831988336" duration="154000" />
+      <workItem from="1573887111680" duration="3759000" />
+      <workItem from="1573909965377" duration="2031000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109171000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,41 +206,6 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3494364" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28663447" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.28985506" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.58293074" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.47181964" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2657005" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -376,20 +215,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -404,316 +230,6 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Car.java" />
-    <entry file="file://$PROJECT_DIR$/src/Attempt1.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lock.java" />
-    <entry file="file://$PROJECT_DIR$/src/createThread/Thread1.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="381" column="62" selection-start-line="381" selection-start-column="62" selection-end-line="381" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="146" column="7" lean-forward="true" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/com/sun/corba/se/impl/io/ObjectStreamClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="1754" column="19" selection-start-line="1754" selection-start-column="19" selection-end-line="1754" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
-          <folding>
-            <element signature="e#5559#5560#0" expanded="true" />
-            <element signature="e#5600#5601#0" expanded="true" />
-            <element signature="e#15704#15705#0" expanded="true" />
-            <element signature="e#15770#15771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithmCodeLearn/PhanTichRaSNT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithmCodeLearn/FindSntFromNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithmCodeLearn/FindSntMaxBetweenTwoNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/javax/rmi/CORBA/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="234" column="56" lean-forward="true" selection-start-line="234" selection-start-column="56" selection-end-line="234" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/lab3/BinarySemaphore.java" />
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/lab3/CountingSemaphore.java" />
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/lab3/BoundedBuffer.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="270" column="38" lean-forward="true" selection-start-line="270" selection-start-column="38" selection-end-line="270" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/Lablab/MyThread.java" />
-    <entry file="file://$PROJECT_DIR$/src/algorithmCodeLearn/FindMaxFromMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/OpenDoor/OpenDoor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/TwoThreadCountPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/lab3/BoundedBufferMonitor.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/net/Socket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
-          <caret line="183" column="16" selection-start-line="183" selection-start-column="16" selection-end-line="183" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/socketTCP/ClientTCP.java" />
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/socketTCP/ServerTCP.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/net/DatagramSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="724" column="19" lean-forward="true" selection-start-line="724" selection-start-column="19" selection-end-line="724" selection-end-column="19" />
-          <folding>
-            <element signature="e#20268#20269#0" expanded="true" />
-            <element signature="e#20304#20305#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="367" column="28" lean-forward="true" selection-start-line="367" selection-start-column="28" selection-end-line="367" selection-end-column="28" />
-          <folding>
-            <element signature="e#4677#4678#0" expanded="true" />
-            <element signature="e#4714#4715#0" expanded="true" />
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/reflect/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/soketUDP/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/accessShareResource/Symbols.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/accessShareResource/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/accessShareResource/BoundedCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-672">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/Want.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/UDP/DatagramServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="22" column="76" lean-forward="true" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/UDP/DatagramClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exampleThread/soketUDP/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/Instagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/FaceBookSocial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/springDemoDependencyInjection/explain dependency injecttion - giải thích">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
